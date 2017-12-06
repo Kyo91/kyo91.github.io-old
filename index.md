@@ -1,5 +1,12 @@
 # A Temporary landing page
 
-I don't have anything to put here yet, so this is here.
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 
 [About Me](about.html "About me")
