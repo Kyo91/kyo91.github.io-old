@@ -1,4 +1,4 @@
-# A Temporary landing page
+# Posts
 
 <ul>
   {% for post in site.posts %}
