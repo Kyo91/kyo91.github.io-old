@@ -41,7 +41,7 @@ After a bit of looking around at Emacs http libraries, I ran into issues with li
 
 With the above function, I can take a buffer like
 ```json
-PUT test
+PUT /test
 {
     "settings" : {
         "number_of_shards" : 1
@@ -59,7 +59,7 @@ PUT test
 which will run
 
 ```bash
-curl -X PUT -s http://localhost:9200test -d ’{
+curl -X PUT -s http://localhost:9200/test -d ’{
     "settings" : {
         "number_of_shards" : 1
     },
