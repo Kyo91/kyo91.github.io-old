@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kyo91 - A Programmer&#39;s Tale</title>
-    <link>http://example.org/</link>
+    <link>kyo91.github.io/</link>
     <description>Recent content on Kyo91 - A Programmer&#39;s Tale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Feb 2018 21:10:58 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="kyo91.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Me</title>
-      <link>http://example.org/about/</link>
+      <link>kyo91.github.io/about/</link>
       <pubDate>Mon, 12 Feb 2018 21:10:58 -0500</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>kyo91.github.io/about/</guid>
       <description>Hi, my name is Sam Blumenthal, and I&amp;rsquo;m a software engineer fresh out of Georgia Tech, where earned a degree in Computer Science with a focus in Modelling &amp;amp; Simulation and Intelligence. I am a fan of Lisp and other functional languages and (never actually) write about my experiences with them.</description>
     </item>
     
     <item>
       <title>Elasticsearch Requests from Emacs</title>
-      <link>http://example.org/post/elasticsearch-from-emacs/</link>
+      <link>kyo91.github.io/post/elasticsearch-from-emacs/</link>
       <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/elasticsearch-from-emacs/</guid>
+      <guid>kyo91.github.io/post/elasticsearch-from-emacs/</guid>
       <description>Lately, I&amp;rsquo;ve found myself working with Elasticsearch&amp;rsquo;s JSON API and being disappointed with the state of api request tools. While many offer some neat functionalities, none of them are as easy to navigate as Emacs. Additionally, all I&amp;rsquo;ve seen require typing into different text fields for say the URL resource versus the body text (on that note many clients seem to have limited support for bodies on a GET request, albeit I&amp;rsquo;ve never seen an API besides ES&amp;rsquo;s to use that feature).</description>
     </item>
     
