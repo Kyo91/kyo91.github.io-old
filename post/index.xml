@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Kyo91 - A Programmer&#39;s Tale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2018 00:28:00 -0500</lastBuildDate>
     
 	<atom:link href="https://kyo91.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Migrating To Hugo With Org</title>
+      <link>https://kyo91.github.io/post/migrating-to-hugo-with-org/</link>
+      <pubDate>Thu, 15 Feb 2018 00:28:00 -0500</pubDate>
+      
+      <guid>https://kyo91.github.io/post/migrating-to-hugo-with-org/</guid>
+      <description>I have recently moved over my blog from Jekyll to Hugo. I can&amp;rsquo;t really say I have a great reason for doing so, but as this blog has no traffic and only one post, I figured I had nothing to lose from doing so. That being said, I found myself not liking my defaults on Jekyll while also feeling unfamiliar with it&amp;rsquo;s layout, structure and ruby internals so that I didn&amp;rsquo;t feel comfortable changing things.</description>
+    </item>
     
     <item>
       <title>Elasticsearch Requests from Emacs</title>
