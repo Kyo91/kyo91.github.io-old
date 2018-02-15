@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emacs on Kyo91 - A Programmer&#39;s Tale</title>
+    <link>https://kyo91.github.io/categories/emacs/</link>
+    <description>Recent content in Emacs on Kyo91 - A Programmer&#39;s Tale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kyo91.github.io/categories/emacs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elasticsearch Requests from Emacs</title>
+      <link>https://kyo91.github.io/post/elasticsearch-from-emacs/</link>
+      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kyo91.github.io/post/elasticsearch-from-emacs/</guid>
+      <description>Lately, I&amp;rsquo;ve found myself working with Elasticsearch&amp;rsquo;s JSON API and being disappointed with the state of api request tools. While many offer some neat functionalities, none of them are as easy to navigate as Emacs. Additionally, all I&amp;rsquo;ve seen require typing into different text fields for say the URL resource versus the body text (on that note many clients seem to have limited support for bodies on a GET request, albeit I&amp;rsquo;ve never seen an API besides ES&amp;rsquo;s to use that feature).</description>
+    </item>
+    
+  </channel>
+</rss>
